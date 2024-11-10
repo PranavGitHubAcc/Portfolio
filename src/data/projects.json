@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Gamified Paper Trading Website",
+        "imageSrc": "stock.png",
+        "description": "A mock trading website with a chatbot and quizzes for learning.",
+        "skills": ["MERN", "Gen AI"],
+        "github": "https://github.com/PranavGitHubAcc/Gamified-Paper-Trading"
+    },
+    {
+        "title": "SchoolConnect",
+        "imageSrc": "school.png",
+        "description": "Mobile Application for NGO to communicate with parents",
+        "skills": ["React Native", "Expo", "Typescript"],
+        "github": "https://github.com/PranavGitHubAcc/SchoolConnect"
+    },
+    {
+        "title": "Credit Card Fraud detection",
+        "imageSrc": "fraud.png",
+        "description": "Fraud detection using Supervised Learning techniques and comparing different ways to handle dataset Imbalances",
+        "skills": ["Python", "Pandas", "SciKit-Learn"],
+        "github": "https://github.com/PranavGitHubAcc/Credit-Card-Fraud-Detection"
+    }
+]

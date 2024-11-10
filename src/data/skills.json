@@ -1,0 +1,34 @@
+[
+    {
+        "title": "HTML",
+        "imageSrc": "html.png"
+    },
+    {
+        "title": "CSS",
+        "imageSrc": "css.png"
+    },
+    {
+        "title": "React",
+        "imageSrc": "react.png"
+    },
+    {
+        "title": "Node",
+        "imageSrc": "node.png"
+    },
+    {
+        "title": "Python",
+        "imageSrc": "python-logo.png"
+    },
+    {
+        "title": "MongoDB",
+        "imageSrc": "mongodb.png"
+    },
+    {
+        "title": "NumPy",
+        "imageSrc": "NumPy.png"
+    },
+    {
+        "title": "Pandas",
+        "imageSrc": "Pandas.png"
+    }
+]

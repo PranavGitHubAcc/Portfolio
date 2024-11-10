@@ -1,0 +1,27 @@
+[
+    {
+        "role": "Web-Dev Co-Lead",
+        "organisation": "SIT ACM student chapter",
+        "startDate": "July, 2024",
+        "endDate": "Present",
+        "experiences": ["Conducted session on web development"],
+        "imageSrc": "acm.png"
+    },
+    {
+        "role": "Mobile developer",
+        "organisation": "Ab-Normal Home NGO",
+        "startDate": "July, 2024",
+        "endDate": "Novemeber, 2024",
+        "experiences": ["Mobile application for tracking student progress."],
+        "imageSrc": "ngo.png"
+    },
+
+    {
+        "role": "Full Stack Intern",
+        "organisation": "Meta Craft Lab",
+        "startDate": "May, 2024",
+        "endDate": "July, 2024",
+        "experiences": ["Worked on creating a whiteboard using Svelte"],
+        "imageSrc": "metacraft.png"
+    }
+]

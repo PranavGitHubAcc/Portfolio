@@ -1,0 +1,9 @@
+:root {
+    --color-text: #333333; /* Soft dark gray for text */
+    --color-primary: #a7c7e7; /* Light pastel blue */
+    --color-secondary: #b3b9c8; /* Light pastel gray-blue */ 
+    --color-dark: #f0d9ff; /* Very light pastel purple for accents */
+    --color-bg: #f7f5f2; /* Very light pastel cream background */
+
+    --font-roboto: "Roboto", sans-serif;
+}
